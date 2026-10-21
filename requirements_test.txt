@@ -1,4 +1,4 @@
 # Pins HA itself, so it must follow the Python version in CI; dependabot bumps the rest.
 pytest-homeassistant-custom-component
 icalendar==7.3.0
-ruff==0.16.10
+ruff==0.17.1
